@@ -8,3 +8,4 @@ zmiana09
 zmiana10
 zmiana13
 zmiana14 nowa galaz
+zmiana16 nowa galaz
