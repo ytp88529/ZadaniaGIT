@@ -1,1 +1,8 @@
 zmiana07B
+naprawa błędów - hotFix-001
+oraz
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+zmiana08
+zmiana09
+zmiana10
