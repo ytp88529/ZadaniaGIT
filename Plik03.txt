@@ -9,3 +9,4 @@ zmiana10
 zmiana13
 zmiana15 ze sklonowanego repo
 zmiana17
+zmiana18
